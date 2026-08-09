@@ -1,8 +1,10 @@
 # Customer Churn Prediction
 
-![Customer Churn Prediction App]
-(churn1.png)
-(churn2.png)
+![Customer Churn Prediction App -Input]
+(./churn1.png)
+
+![Customer Churn Prediction App -Output]
+(./churn2.png)
 
 ## Project Overview
 
