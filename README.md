@@ -1,5 +1,9 @@
 # Customer Churn Prediction
 
+![Customer Churn Prediction App]
+(churn1.png)
+(churn2.png)
+
 ## Project Overview
 
 This project predicts whether a telecom customer is likely to churn.
