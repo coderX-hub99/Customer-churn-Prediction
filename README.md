@@ -1,4 +1,7 @@
 # Customer Churn Prediction
+## 🌐 Live Demo
+
+[📡 Customer Churn Prediction App](https://telecom-ml.streamlit.app/)
 ![Customer Churn Prediction App -
 Input](./churn1.png)
 ![Customer Churn Prediction App -
